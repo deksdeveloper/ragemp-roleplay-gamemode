@@ -43,6 +43,7 @@ You can currently download the game mode from the following link:
 
 **[back-end](https://github.com/deksdeveloper/ragemp-roleplay-backend/)**
 **[front-end](https://github.com/deksdeveloper/ragemp-roleplay-frontend/)**
+**[game-resources](https://www.mediafire.com/file/4b1t1wdkhoe00y4/game_resources.rar/file)**
 
 
 ## Final Notes
