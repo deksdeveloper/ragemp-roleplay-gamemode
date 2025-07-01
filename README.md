@@ -47,5 +47,5 @@ You can currently download the game mode from the following link:
 
 
 ## Final Notes
-
+Move the overlays.json file in the backend files to the main server folder.
 This project is almost ready to launch. With just a bit more effort and testing, you could take it live for players. Enjoy, and feel free to build on top of it!
